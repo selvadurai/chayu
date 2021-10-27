@@ -244,7 +244,7 @@ $small-breakpoint: 960px;
     position: absolute;
     width: 280px;
     box-sizing: border-box;
-    background: darken($ui-base-color, 8%);
+    background: ($ui-base-color, 8%);
     padding: 20px;
     padding-top: 10px;
     border-radius: 4px 4px 0 0;
@@ -690,7 +690,7 @@ $small-breakpoint: 960px;
 
     svg {
       fill: $primary-text-color;
-      height: 52px;
+      height: 130px;
     }
 
     @media screen and (max-width: $no-gap-breakpoint) {
