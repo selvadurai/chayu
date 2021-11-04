@@ -813,7 +813,7 @@ en_GB:
       weibo: Weibo
     current_session: Current session
     description: "%{browser} on %{platform}"
-    explanation: These are the web browsers currently logged in to your Mastodon account.
+    explanation: These are the web browsers currently logged in to your Chayu account.
     ip: IP
     platforms:
       adobe_air: Adobe Air
@@ -833,7 +833,7 @@ en_GB:
     title: Sessions
   settings:
     authorized_apps: Authorized apps
-    back: Back to Mastodon
+    back: Back to Chayu
     delete: Account deletion
     development: Development
     edit_profile: Edit profile
@@ -1040,5 +1040,5 @@ en_GB:
     seamless_external_login: You are logged in via an external service, so password and e-mail settings are not available.
     signed_in_as: 'Signed in as:'
   verification:
-    explanation_html: 'You can <strong>verify yourself as the owner of the links in your profile metadata</strong>. For that, the linked website must contain a link back to your Mastodon profile. The link back <strong>must</strong> have a <code>rel="me"</code> attribute. The text content of the link does not matter. Here is an example:'
+    explanation_html: 'You can <strong>verify yourself as the owner of the links in your profile metadata</strong>. For that, the linked website must contain a link back to your Chayu profile. The link back <strong>must</strong> have a <code>rel="me"</code> attribute. The text content of the link does not matter. Here is an example:'
     verification: Verification
