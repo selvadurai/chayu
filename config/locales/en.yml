@@ -2,7 +2,7 @@
 en:
   about:
     about_hashtag_html: These are public posts tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the fediverse.
-    about_mastodon_html: 'The social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! Own your data with Chayu!'
+    about_mastodon_html: Chayu is a microblogging decentralized social network built on Mastodon that follows the Free Software Philosophy. It's an ethical way to microblog and connect with people without worrying about surveillance. Own your data with Chayu!
     about_this: About
     active_count_after: active
     active_footnote: Monthly Active Users (MAU)
